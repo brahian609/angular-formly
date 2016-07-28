@@ -1,0 +1,31 @@
+{
+  "name": "formly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brahian609/angular-formly.git"
+  },
+  "keywords": [
+    "angular",
+    "formly",
+    "angular-formly"
+  ],
+  "author": "brian giraldo <brahian609@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brahian609/angular-formly/issues"
+  },
+  "homepage": "https://github.com/brahian609/angular-formly#readme",
+  "dependencies": {
+    "angular": "1.5.8",
+    "angular-formly": "8.3.0",
+    "angular-formly-templates-bootstrap": "6.4.0",
+    "api-check": "7.5.5",
+    "bootstrap": "3.3.7"
+  }
+}
